@@ -1,3 +1,3 @@
 function master (){
- 'wohewowww'
+ 'wohewowww'667
 }
