@@ -1,2 +1,3 @@
-dadsdada
-
+function test (){
+    
+}
